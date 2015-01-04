@@ -2,12 +2,15 @@ Git Basics
 
 =========
 **TERMINAL BASICS**
+
 cd - change directory
 cd.. - will go up one folder in the directory
 ls - will list all the items inside the working directory Always start by typing this out first
+
 =========
 
 Git Repository for current git testing folder
+
 https://github.com/soujohn/gitTest01.git
 
 	•	**git clone** ‘URL’
