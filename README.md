@@ -1,6 +1,3 @@
-gitTest01
-=========
-
 Git Basics
 
 =========
