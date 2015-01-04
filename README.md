@@ -20,12 +20,12 @@ https://github.com/soujohn/gitTest01.git
 -	**git add**
   -	This will add changes(stage files) to be committed to the repository
 -	**git commit -m** “message”
-  -	GIT COMMIT This will commit your changes to the repository, but it still only exists on your machine. The change still hasn’t been synced up to github.com
-  -	-M This indicates that you are adding a messages/description to this file when it gets committed to the repository
-  -	“MESSAGE” This is the message/description you include to document changes you’re making. You’re message must be within quotation marks
+  -	*GIT COMMIT* This will commit your changes to the repository, but it still only exists on your machine. The change still hasn’t been synced up to github.com
+  -	*-M* This indicates that you are adding a messages/description to this file when it gets committed to the repository
+  -	*“MESSAGE”* This is the message/description you include to document changes you’re making. You’re message must be within quotation marks
 -	**git commit** (sans -m) full commit
   -	commits changes and expects a multiline message to be typed in
-  -	to escape from a full commit ESC :WQ
+  -	to escape from a full commit *ESC :WQ*
     -	This will still commit your change even if you don’t enter a message
 -	**git push**
   -	This will take whatever is on your machine and sync it up to github.com
@@ -33,3 +33,6 @@ https://github.com/soujohn/gitTest01.git
   -	This will pull down whatever you have in your repository on github.com into your working directory
 -	**git add .**, **git add -A**
   -	This will add everything that is in your working directory
+
+
+#####Credit: https://www.youtube.com/watch?v=0fKg7e37bQE
